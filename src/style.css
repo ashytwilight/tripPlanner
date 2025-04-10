@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.back {
+    font-family: 'system-ui', 'Helvetica', sans-serif;
+    background-image: url('./assets/back.jpg');
+    background-size: cover; /* 讓圖片覆蓋整個畫面 */
+    background-repeat: no-repeat; /* 不要重複 */
+    background-attachment: fixed; /* 固定背景不隨捲動 */
+    background-position: center; /* 背景圖片置中 */
+  }
