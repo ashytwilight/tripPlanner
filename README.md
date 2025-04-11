@@ -1,6 +1,6 @@
 # TripPlanner - 智能化行程規劃工具
 
-[![GitHub license](https://img.shields.io/github/license/ashytwilight/tripPlanner)](https://github.com/ashytwilight/tripPlanner/blob/main/LICENSE)
+<!-- [![GitHub license](https://img.shields.io/github/license/ashytwilight/tripPlanner)](https://github.com/ashytwilight/tripPlanner/blob/main/LICENSE) -->
 ![Vue](https://img.shields.io/badge/Vue-3.4.21-42b883)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF)
 
@@ -10,7 +10,7 @@
 ### 行程管理
 - 📅 多日行程分日管理
 - ➕ 動態添加/刪除行程天數
-- 📍 景點拖曳排序與跨日移動
+- 📍 景點排序與跨日移動
 - 📝 每日行程備註記錄
 
 ### 地圖整合
