@@ -1,4 +1,4 @@
-# TripPlanner - 智能化行程規劃工具
+# TripPlanner - 旅行規劃助手
 
 <!-- [![GitHub license](https://img.shields.io/github/license/ashytwilight/tripPlanner)](https://github.com/ashytwilight/tripPlanner/blob/main/LICENSE) -->
 ![Vue](https://img.shields.io/badge/Vue-3.4.21-42b883)
