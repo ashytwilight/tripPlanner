@@ -1,6 +1,6 @@
 # TripPlanner - 智能化行程規劃工具
 
-[![GitHub license](https://img.shields.io/github/license/EBM/trae_test)](https://github.com/EBM/trae_test/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ashytwilight/tripPlanner)](https://github.com/ashytwilight/tripPlanner/blob/main/LICENSE)
 ![Vue](https://img.shields.io/badge/Vue-3.4.21-42b883)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF)
 
@@ -32,14 +32,10 @@
 ### 安裝步驟
 ```bash
 # 克隆倉庫
-git clone https://github.com/EBM/trae_test.git
-cd trae_test
+git clone https://github.com/ashytwilight/tripPlanner.git
 
 # 安裝依賴
 npm install
-
-# 配置環境變量 (複製並修改 .env 文件)
-cp .env.example .env
 
 # 啟動開發伺服器
 npm run dev
