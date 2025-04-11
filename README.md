@@ -30,17 +30,17 @@
 - npm 6+ 或 yarn 1.x
 
 ### 安裝步驟
+#### 克隆倉庫
 ```bash
-# 克隆倉庫
 git clone https://github.com/ashytwilight/tripPlanner.git
 ```
 
+#### 安裝依賴
 ```bash
-# 安裝依賴
 npm install
 ```
 
+#### 啟動開發伺服器
 ```bash
-# 啟動開發伺服器
 npm run dev
 ```
