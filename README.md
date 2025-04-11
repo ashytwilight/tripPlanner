@@ -33,10 +33,14 @@
 ```bash
 # 克隆倉庫
 git clone https://github.com/ashytwilight/tripPlanner.git
+```
 
+```bash
 # 安裝依賴
 npm install
+```
 
+```bash
 # 啟動開發伺服器
 npm run dev
 ```
