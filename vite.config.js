@@ -1,8 +1,6 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import path from 'path'
 
-// https://vite.dev/config/
 export default defineConfig({
   base: '/tripPlanner', // 與 repository 名稱完全一致
   plugins: [vue()],

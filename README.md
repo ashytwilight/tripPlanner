@@ -1,8 +1,8 @@
 # TripPlanner - 旅行規劃助手
 
 <!-- [![GitHub license](https://img.shields.io/github/license/ashytwilight/tripPlanner)](https://github.com/ashytwilight/tripPlanner/blob/main/LICENSE) -->
-![Vue](https://img.shields.io/badge/Vue-3.4.21-42b883)
-![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF)
+![Vue](https://img.shields.io/badge/Vue-3.3.11-42b883?logo=vuedotjs)
+![Vite](https://img.shields.io/badge/Vite-4.5.2-646CFF?logo=vite)
 
 專業的旅行行程規劃解決方案，提供直覺化的界面管理多日行程與整合地圖服務。
 
@@ -26,8 +26,8 @@
 
 ## 🚀 快速啟動
 ### 環境需求
-- Node.js 18+
-- npm 9+
+- Node.js 14.18+ (建議 16+)
+- npm 6+ 或 yarn 1.x
 
 ### 安裝步驟
 ```bash
